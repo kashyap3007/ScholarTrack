@@ -15,4 +15,4 @@ Students are staged through branch and course opt by them.
 ## User Profile Edit
 ![Screenshot (301)](https://github.com/0203nilesh/ScholarTrack/assets/95562518/01690da5-fa1e-42d3-92e0-d518a4e2aaec)
 
-### ***Thanks***
+### ***ThankS***
